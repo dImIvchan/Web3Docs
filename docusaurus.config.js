@@ -12,3 +12,4 @@ const config = {
   title: "Moralis Web3 Documentation",
   url: "https://docs.moralis.io",
   baseUrl: "/",
+  onBrokenLinks: "throw",
