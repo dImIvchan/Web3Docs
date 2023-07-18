@@ -10,3 +10,4 @@ dotenv.config();
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Moralis Web3 Documentation",
+  url: "https://docs.moralis.io",
