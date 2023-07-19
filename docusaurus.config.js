@@ -13,3 +13,4 @@ const config = {
   url: "https://docs.moralis.io",
   baseUrl: "/",
   onBrokenLinks: "throw",
+  onBrokenMarkdownLinks: "warn",
