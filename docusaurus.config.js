@@ -37,3 +37,5 @@ const config = {
 
   headTags: [
     {
+      tagName: "link",
+      attributes: {
