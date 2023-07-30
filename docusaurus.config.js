@@ -39,3 +39,6 @@ const config = {
     {
       tagName: "link",
       attributes: {
+      attributes: {
+        rel: "preload",
+        href: "https://docs.moralis.io/fonts/golos/Golos-Text_Bold.woff2",
