@@ -44,3 +44,6 @@ const config = {
         href: "https://docs.moralis.io/fonts/golos/Golos-Text_Bold.woff2",
         as: "font",
         type: "font/woff2",
+        crossorigin: "anonymous",
+      },
+    },
