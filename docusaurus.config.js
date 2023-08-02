@@ -47,3 +47,5 @@ const config = {
         crossorigin: "anonymous",
       },
     },
+    {
+      tagName: "link",
