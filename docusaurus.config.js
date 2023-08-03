@@ -49,3 +49,5 @@ const config = {
     },
     {
       tagName: "link",
+      attributes: {
+        rel: "preload",
