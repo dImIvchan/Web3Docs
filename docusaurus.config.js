@@ -51,3 +51,5 @@ const config = {
       tagName: "link",
       attributes: {
         rel: "preload",
+        href: "https://docs.moralis.io/fonts/golos/Golos-Text_DemiBold.woff2",
+        as: "font",
