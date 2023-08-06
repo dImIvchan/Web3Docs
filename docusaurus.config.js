@@ -56,3 +56,9 @@ const config = {
         type: "font/woff2",
         crossorigin: "anonymous",
       },
+    },
+  ],
+
+  presets: [
+    [
+      "classic",
