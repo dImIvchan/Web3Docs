@@ -64,3 +64,5 @@ const config = {
       "classic",
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
+        docs: {
+          lastVersion: "current",
