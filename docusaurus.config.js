@@ -66,3 +66,5 @@ const config = {
       ({
         docs: {
           lastVersion: "current",
+          versions: {
+            current: {
