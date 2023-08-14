@@ -71,3 +71,5 @@ const config = {
               label: "2.0",
               path: "",
             },
+          },
+          editUrl: "https://github.com/MoralisWeb3/docs/edit/main/",
