@@ -73,3 +73,5 @@ const config = {
             },
           },
           editUrl: "https://github.com/MoralisWeb3/docs/edit/main/",
+          sidebarPath: require.resolve("./sidebars.js"),
+          routeBasePath: "/",
