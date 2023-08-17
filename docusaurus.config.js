@@ -77,3 +77,5 @@ const config = {
           routeBasePath: "/",
           remarkPlugins: [
             [require("remark-oembed"), { syncWidget: true }],
+            [require("@docusaurus/remark-plugin-npm2yarn"), { sync: true }],
+          ],
