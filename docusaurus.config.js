@@ -79,3 +79,5 @@ const config = {
             [require("remark-oembed"), { syncWidget: true }],
             [require("@docusaurus/remark-plugin-npm2yarn"), { sync: true }],
           ],
+        },
+        blog: {
