@@ -81,3 +81,4 @@ const config = {
           ],
         },
         blog: {
+          blogTitle: "Changelog",
