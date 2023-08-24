@@ -83,3 +83,4 @@ const config = {
         blog: {
           blogTitle: "Changelog",
           blogSidebarTitle: "Recent Changes",
+          postsPerPage: "ALL",
