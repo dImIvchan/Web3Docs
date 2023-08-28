@@ -84,3 +84,4 @@ const config = {
           blogTitle: "Changelog",
           blogSidebarTitle: "Recent Changes",
           postsPerPage: "ALL",
+          routeBasePath: "/changelog",
