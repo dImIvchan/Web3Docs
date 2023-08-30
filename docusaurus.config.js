@@ -86,3 +86,4 @@ const config = {
           postsPerPage: "ALL",
           routeBasePath: "/changelog",
           showReadingTime: true,
+          readingTime: ({ content, frontMatter, defaultReadingTime }) =>
