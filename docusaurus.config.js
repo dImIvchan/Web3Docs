@@ -87,3 +87,5 @@ const config = {
           routeBasePath: "/changelog",
           showReadingTime: true,
           readingTime: ({ content, frontMatter, defaultReadingTime }) =>
+            defaultReadingTime({ content, options: { wordsPerMinute: 300 } }),
+        },
