@@ -90,3 +90,5 @@ const config = {
             defaultReadingTime({ content, options: { wordsPerMinute: 300 } }),
         },
         theme: {
+          customCss: [require.resolve("./src/css/custom.css")],
+        },
