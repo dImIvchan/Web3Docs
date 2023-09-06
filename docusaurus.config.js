@@ -97,3 +97,9 @@ const config = {
           priority: 0.5,
           ignorePatterns: ["/tags/**"],
           filename: "sitemap.xml",
+        },
+      }),
+    ],
+  ],
+
+  themeConfig:
