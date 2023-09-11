@@ -106,3 +106,5 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       announcementBar: {
+        id: "support_us",
+        content:
