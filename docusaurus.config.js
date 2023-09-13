@@ -110,3 +110,5 @@ const config = {
         content:
           '🚨 <a target="_blank" rel="noopener noreferrer" href="/changelog/essential-api-changes">Coming September 4th: Essential API Changes</a> 🚨',
         backgroundColor: "#57a5ff",
+        textColor: "#fff",
+        isCloseable: true,
