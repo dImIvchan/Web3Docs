@@ -112,3 +112,5 @@ const config = {
         backgroundColor: "#57a5ff",
         textColor: "#fff",
         isCloseable: true,
+      },
+      image: "img/moralis-social-card.jpg",
