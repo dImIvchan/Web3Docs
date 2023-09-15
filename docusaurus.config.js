@@ -114,3 +114,6 @@ const config = {
         isCloseable: true,
       },
       image: "img/moralis-social-card.jpg",
+      metadata: [
+        {
+          name: "twitter:card",
