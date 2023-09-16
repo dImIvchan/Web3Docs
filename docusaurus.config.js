@@ -117,3 +117,6 @@ const config = {
       metadata: [
         {
           name: "twitter:card",
+          content: "summary_large_image",
+        },
+        {
