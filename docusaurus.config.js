@@ -120,3 +120,6 @@ const config = {
           content: "summary_large_image",
         },
         {
+          name: "og:site_name",
+          content: "Moralis Web3 Documentation",
+        },
