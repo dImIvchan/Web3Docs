@@ -123,3 +123,5 @@ const config = {
           name: "og:site_name",
           content: "Moralis Web3 Documentation",
         },
+      ],
+      docs: {
