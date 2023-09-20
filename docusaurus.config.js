@@ -128,3 +128,6 @@ const config = {
         sidebar: {
           autoCollapseCategories: true,
           hideable: true,
+        },
+      },
+      colorMode: {
