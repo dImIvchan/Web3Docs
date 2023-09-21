@@ -131,3 +131,5 @@ const config = {
         },
       },
       colorMode: {
+        defaultMode: "dark",
+        disableSwitch: false,
