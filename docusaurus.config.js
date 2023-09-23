@@ -135,3 +135,5 @@ const config = {
         disableSwitch: false,
         respectPrefersColorScheme: true,
       },
+      navbar: {
+        hideOnScroll: false,
