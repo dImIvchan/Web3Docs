@@ -137,3 +137,5 @@ const config = {
       },
       navbar: {
         hideOnScroll: false,
+        logo: {
+          alt: "Moralis Logo",
