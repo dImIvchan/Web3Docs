@@ -139,3 +139,5 @@ const config = {
         hideOnScroll: false,
         logo: {
           alt: "Moralis Logo",
+          src: "img/logo.svg",
+          srcDark: "img/logo-dark.svg",
