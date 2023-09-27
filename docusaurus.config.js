@@ -143,3 +143,5 @@ const config = {
           srcDark: "img/logo-dark.svg",
           href: "/",
           target: "_self",
+          height: "32",
+          width: "133",
