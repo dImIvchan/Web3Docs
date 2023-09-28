@@ -145,3 +145,7 @@ const config = {
           target: "_self",
           height: "32",
           width: "133",
+        },
+        items: [
+          {
+            type: "search",
