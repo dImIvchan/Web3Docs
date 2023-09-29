@@ -149,3 +149,5 @@ const config = {
         items: [
           {
             type: "search",
+            position: "left",
+          },
