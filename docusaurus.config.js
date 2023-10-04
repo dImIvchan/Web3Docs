@@ -160,3 +160,5 @@ const config = {
           {
             type: "doc",
             docId: "guides/overview",
+            position: "right",
+            label: "Guides",
