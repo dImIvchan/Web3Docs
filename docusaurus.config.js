@@ -162,3 +162,6 @@ const config = {
             docId: "guides/overview",
             position: "right",
             label: "Guides",
+          },
+          {
+            type: "dropdown",
