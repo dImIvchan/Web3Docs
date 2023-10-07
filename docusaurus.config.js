@@ -167,3 +167,6 @@ const config = {
             type: "dropdown",
             label: "References",
             position: "right",
+            items: [
+              {
+                type: "html",
