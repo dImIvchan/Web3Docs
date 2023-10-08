@@ -170,3 +170,4 @@ const config = {
             items: [
               {
                 type: "html",
+                value: "API References",
