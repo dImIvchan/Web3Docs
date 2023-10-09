@@ -171,3 +171,6 @@ const config = {
               {
                 type: "html",
                 value: "API References",
+              },
+              {
+                label: "Web3 Data API",
