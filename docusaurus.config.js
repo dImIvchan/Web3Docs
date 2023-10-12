@@ -179,3 +179,4 @@ const config = {
               },
               {
                 label: "Streams API",
+                type: "doc",
