@@ -180,3 +180,4 @@ const config = {
               {
                 label: "Streams API",
                 type: "doc",
+                docId: "streams-api/evm/reference/reference",
