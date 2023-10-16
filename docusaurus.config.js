@@ -184,3 +184,5 @@ const config = {
               },
               {
                 label: "Authentication API",
+                type: "doc",
+                docId: "authentication-api/evm/reference/reference",
