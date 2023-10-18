@@ -189,3 +189,5 @@ const config = {
               },
               {
                 type: "html",
+                value: "SDK References",
+              },
