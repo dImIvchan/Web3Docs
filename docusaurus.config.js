@@ -191,3 +191,5 @@ const config = {
                 type: "html",
                 value: "SDK References",
               },
+              {
+                label: "JS SDK",
