@@ -194,3 +194,5 @@ const config = {
               {
                 label: "JS SDK",
                 href: "https://moralisweb3.github.io/Moralis-JS-SDK/",
+                target: "_blank",
+              },
