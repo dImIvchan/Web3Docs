@@ -200,3 +200,5 @@ const config = {
                 label: "Python SDK",
                 href: "https://moralisweb3.github.io/Moralis-Python-SDK/",
                 target: "_blank",
+              },
+            ],
