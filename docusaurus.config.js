@@ -202,3 +202,6 @@ const config = {
                 target: "_blank",
               },
             ],
+          },
+          {
+            type: "docsVersionDropdown",
