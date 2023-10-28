@@ -209,3 +209,5 @@ const config = {
             dropdownActiveClassDisabled: true,
             dropdownItemsAfter: [
               {
+                type: "html",
+                value: "Archived versions",
