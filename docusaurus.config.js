@@ -211,3 +211,6 @@ const config = {
               {
                 type: "html",
                 value: "Archived versions",
+              },
+              {
+                href: "https://v1docs.moralis.io/",
