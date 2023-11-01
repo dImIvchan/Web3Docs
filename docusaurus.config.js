@@ -214,3 +214,5 @@ const config = {
               },
               {
                 href: "https://v1docs.moralis.io/",
+                label: "1.0",
+              },
