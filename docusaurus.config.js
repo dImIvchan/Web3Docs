@@ -221,3 +221,5 @@ const config = {
         ],
       },
       footer: {
+        logo: {
+          alt: "Moralis Logo",
