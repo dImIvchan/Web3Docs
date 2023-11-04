@@ -223,3 +223,5 @@ const config = {
       footer: {
         logo: {
           alt: "Moralis Logo",
+          src: "img/logo.svg",
+          srcDark: "img/logo-dark.svg",
