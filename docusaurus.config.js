@@ -225,3 +225,5 @@ const config = {
           alt: "Moralis Logo",
           src: "img/logo.svg",
           srcDark: "img/logo-dark.svg",
+          href: "/",
+          target: "_self",
