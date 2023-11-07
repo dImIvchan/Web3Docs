@@ -231,3 +231,5 @@ const config = {
           width: "133",
         },
         items: [
+          {
+            type: "search",
