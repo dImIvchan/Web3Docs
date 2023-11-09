@@ -235,3 +235,5 @@ const config = {
             type: "search",
             position: "left",
           },
+          {
+            type: "html",
