@@ -237,3 +237,6 @@ const config = {
           },
           {
             type: "html",
+            position: "left",
+            className: "navbar__item--linebreak",
+            value: "<hr>",
