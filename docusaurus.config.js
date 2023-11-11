@@ -240,3 +240,7 @@ const config = {
             position: "left",
             className: "navbar__item--linebreak",
             value: "<hr>",
+          },
+          {
+            type: "doc",
+            docId: "web3-data-api/evm/overview",
