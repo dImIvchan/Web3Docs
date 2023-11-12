@@ -244,3 +244,5 @@ const config = {
           {
             type: "doc",
             docId: "web3-data-api/evm/overview",
+            position: "left",
+            label: "Web3 Data API",
