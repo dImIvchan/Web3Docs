@@ -253,3 +253,6 @@ const config = {
             position: "left",
             label: "Streams API",
           },
+          {
+            type: "doc",
+            docId: "authentication-api/evm/overview",
