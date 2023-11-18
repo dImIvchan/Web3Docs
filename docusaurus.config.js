@@ -258,3 +258,6 @@ const config = {
             docId: "authentication-api/evm/overview",
             position: "left",
             label: "Authentication API",
+          },
+          {
+            to: "changelog",
