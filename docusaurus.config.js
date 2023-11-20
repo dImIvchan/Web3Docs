@@ -263,3 +263,5 @@ const config = {
             to: "changelog",
             position: "left",
             label: "Changelog",
+          },
+          // position: Right
