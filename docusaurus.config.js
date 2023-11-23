@@ -271,3 +271,7 @@ const config = {
             value:
               '<a href="https://admin.moralis.io/register" target="_blank">Create account</a>',
             className: "navbar__item--hide-on-mobile",
+          },
+          {
+            type: "html",
+            position: "right",
