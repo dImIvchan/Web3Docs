@@ -282,3 +282,5 @@ const config = {
           {
             type: "html",
             position: "right",
+            className: "navbar__item--linebreak",
+            value: "<hr>",
