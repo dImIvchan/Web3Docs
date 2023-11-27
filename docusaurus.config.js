@@ -284,3 +284,5 @@ const config = {
             position: "right",
             className: "navbar__item--linebreak",
             value: "<hr>",
+          },
+          {
