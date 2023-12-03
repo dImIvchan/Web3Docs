@@ -296,3 +296,6 @@ const config = {
             docId: "streams-api/evm/overview",
             position: "left",
             label: "Streams API",
+          },
+          {
+            type: "doc",
