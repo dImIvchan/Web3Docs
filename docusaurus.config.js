@@ -301,3 +301,6 @@ const config = {
             type: "doc",
             docId: "authentication-api/evm/overview",
             position: "left",
+            label: "Authentication API",
+          },
+          {
