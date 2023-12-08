@@ -304,3 +304,4 @@ const config = {
             label: "Authentication API",
           },
           {
+            to: "changelog",
